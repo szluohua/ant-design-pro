@@ -13,6 +13,10 @@ An out-of-box UI solution for enterprise applications as a React boilerplate.
 - Documentation: http://pro.ant.design/docs/getting-started
 - FAQ: http://pro.ant.design/docs/faq
 
+## Translation Recruitment :loudspeaker:
+
+We need your help: https://github.com/ant-design/ant-design-pro/issues/120
+
 ## Features
 
 - :gem: **Neat Design**: Follow Ant Design specification
@@ -71,7 +75,7 @@ Or you can use the command tool: [ant-design-pro-cli](https://github.com/ant-des
 ```bash
 $ npm install ant-design-pro-cli -g
 $ mkdir pro-demo && cd pro-demo
-$ pro init
+$ pro new
 ```
 
 More instruction at [documentation](http://pro.ant.design/docs/getting-started)。
